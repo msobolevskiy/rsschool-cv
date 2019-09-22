@@ -44,3 +44,36 @@ In active learning process of JS.
 * API, HTTP, XMLHttpRequest, Fetch.
 * SPA, RegExp.
 * jQuery, AJAX.
+
+### **Code examples**
+
+```javascript
+var arr = [1, -1, 2, -2, 3];
+
+var positiveArr = arr.filter(function(number) {
+  return number > 0;
+});
+
+alert( positiveArr ); // 1,2,3
+```
+
+### **Experience**
+Apr. 2019 - Aug. 2019
+WEB APPLICATION DEVELOPMENT WITH JAVASCRIPT / IT-Academy
+Jan. 2019 - Apr. 2019
+WEBSITE DEVELOPMENT WITH HTML, CSS, JAVASCRIPT / IT-Academy
+
+
+### **Education**
+
+2013 - 2017
+**PERSONNEL MANAGEMENT**
+ / *Faculty of Economics, International University "MITSO"*
+
+### **English**
+
+**Intermediate level**. 
+* Good understanding of speech.
+* Reading of specialized leterature. 
+* Conversations on general topics.
+
